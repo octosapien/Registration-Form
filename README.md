@@ -35,3 +35,16 @@ cd user-registration-login```
 npm install
 ```
 4. Run the application.Open your web browser and go to http://localhost:3000 to access the application .
+
+
+## Working Snapshots:
+
+### Registation Page
+![image](https://github.com/octosapien/Registration-Form/assets/114580332/3f2c3dd4-8da8-4bf0-a0ab-5834121bda79)
+### Profile Dashboard
+![image](https://github.com/octosapien/Registration-Form/assets/114580332/a76bc258-2c35-4e60-afa9-b3e45aa6b421)
+### Login Page
+![image](https://github.com/octosapien/Registration-Form/assets/114580332/0aef4447-7b4b-4954-83c9-b9faaf4afb65)
+
+
+
